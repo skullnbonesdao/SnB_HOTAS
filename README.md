@@ -1,6 +1,5 @@
 # SnB_HOTAS_v1.exe Instructions For Use
 
----
 
 Thank you for downloading and using SnB_HOTAS_v1.exe created with AutoHotkey. This ReadMe file provides important information about the program and instructions on how to use it effectively.
 
