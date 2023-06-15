@@ -4,6 +4,9 @@
 
 Thank you for downloading and using SnB_HOTAS_v1.exe created with AutoHotkey. This ReadMe file provides important information about the program and instructions on how to use it effectively.
 
+![HOTASimage](https://m.media-amazon.com/images/I/71T+cWTYOHL._SX425_.jpg)
+
+
 1. Joystick Usage:
 ------------------
 - Before launching Star Atlas, make sure to unplug your HOTAS from your computer. Failure to do so may cause issues.
