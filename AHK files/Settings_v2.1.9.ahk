@@ -1985,7 +1985,7 @@ Return
 Buttons:
 if (A_ScreenWidth) < (A_ScreenHeight / 0.59)
     {
-        MsgBox, 1
+;        MsgBox, 1
         Height := A_ScreenWidth * 0.59
         Gui, 2:New
         Gui, 2:Add, Picture, gCloseControls x0 y0 w%A_ScreenWidth% h-1, %SaveFolder%Button_List.png
@@ -1995,7 +1995,7 @@ if (A_ScreenWidth) < (A_ScreenHeight / 0.59)
     }
 Else
     {
-        MsgBox, 2
+;        MsgBox, 2
         Width := A_ScreenHeight / 0.59
         Gui, 2:New
         Gui, 2:Add, Picture, gCloseControls x0 y0 w%Width% h-1, %SaveFolder%Button_List.png
