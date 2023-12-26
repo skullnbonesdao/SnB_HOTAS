@@ -1,5 +1,5 @@
 ======================================
-SnB_HOTAS_v2.1.6 Instructions For Use
+SnB_HOTAS_v2.1.9 Instructions For Use
 ======================================
 
 Thank you for downloading and using SnB HOTAS v2.1.9 created with AutoHotkey. This ReadMe file provides important information about the program and instructions on how to use it effectively.
