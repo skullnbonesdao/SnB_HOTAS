@@ -1,7 +1,7 @@
-# SnB_HOTAS_v2.1.9.exe Instructions For Use
+# SnB_HOTAS_v2.2 Instructions For Use
 
 
-Thank you for downloading and using SnB HOTAS v2.1.9 created with AutoHotkey. This ReadMe file provides important information about the program and instructions on how to use it effectively.
+Thank you for downloading and using SnB HOTAS v2.2 created with AutoHotkey. This ReadMe file provides important information about the program and instructions on how to use it effectively.
 
 ![HOTASimage](https://m.media-amazon.com/images/I/71T+cWTYOHL._SX425_.jpg)
 
@@ -9,22 +9,24 @@ Thank you for downloading and using SnB HOTAS v2.1.9 created with AutoHotkey. Th
 
 1. Device Usage:
 ------------------
-- SnB HOTAS v2.1.9 is designed to map "Joystick" buttons to specific keyboard and mouse inputs, allowing you to control the game using your device.
+- SnB HOTAS v2.2 is designed to map joystick, controller or mouse and keyboard input to specific keyboard and mouse outputs, allowing you to control the game using your device.
 - The program reads the button settings from the Parameters.ini file, which can be configured using the Settings program (explained below).
 
 2. Settings.exe Usage:
 -------------------
-- The Settings program is used to configure the button settings for SnB HOTAS v2.1.9.
-- Run Settings.exe or click "Settings" on the SnB HOTAS v2.1.9 tray icon to open the configuration interface.
+- The Settings program is used to configure the button settings for SnB HOTAS v2.2.
+- Run Settings.exe or click "Settings" on the SnB HOTAS v2.2 tray icon to open the configuration interface.
 - This interface allows you to assign keyboard inputs to your device's buttons as well as set the function of different axis.
-- You can change between the 3 device profiles for each HOTAS, HOSAS and Controller via the drop down menus.
+- You can change between the 3 device profiles for each HOTAS, HOSAS, Controller and Keyboard via the drop down menus.
 - You can also change the axis functionality by clicking the "Axis" button.
 - Modify the settings as per your preference and click the "Save" button to save the changes.
 - If you don't know the button numbers for your device, you can use the Device_info.exe program to show them within a tooltip.
 - The Device_info.exe program can be accessed in the Settings program via the info button in the lower left corner.
-- It is recommended to configure the button settings before launching SnB HOTAS v2.1.9.
+- If you don't know the key name on your keyboard, you can use the "Key Names" button to show them within a tooltip.
+- It is recommended to configure the button settings before launching SnB HOTAS v2.2.
 - Background images can be added, changed or removed in the Data\Backgrounds\ folder as long as all image names in the folder are sequential numbers.
 - A list of in game keys can be found by clicking the "Controls" button.
+- Toggling Scroll Lock will enable/disable the remapping of keys via the HOTAS program.
 
 3. Troubleshooting:
 -------------------
@@ -37,10 +39,10 @@ Thank you for downloading and using SnB HOTAS v2.1.9 created with AutoHotkey. Th
 
 4. Contact:
 -----------
-If you have any questions, feedback, or issues regarding SnB HOTAS v2.1.9, please feel free to leave them in the suggestion box.
+If you have any questions, feedback, or issues regarding SnB HOTAS v2.2, please feel free to leave them in the suggestion box.
 
 5. Legal:
 ---------
 This software is provided as-is, without warranty of any kind. The author and distributor of this software are not responsible for any damages or loss caused by the use or misuse of this software.
 
-Thank you for using SnB HOTAS v2.1.9! Enjoy your gaming experience with your preferred controls.
+Thank you for using SnB HOTAS v2.2! Enjoy your gaming experience with your preferred controls.
