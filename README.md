@@ -21,7 +21,7 @@ Thank you for downloading and using SnB HOTAS v2.2 created with AutoHotkey. This
 - You can also change the axis functionality by clicking the "Axis" button.
 - Modify the settings as per your preference and click the "Save" button to save the changes.
 - If you don't know the button numbers for your device, you can use the Device_info.exe program to show them within a tooltip.
-- The Device_info.exe program can be accessed in the Settings program via the info button in the lower left corner.
+- The Device_info.exe program can be accessed in the Settings program via the info button in the lower right corner.
 - If you don't know the key name on your keyboard, you can use the "Key Names" button to show them within a tooltip.
 - It is recommended to configure the button settings before launching SnB HOTAS v2.2.
 - Background images can be added, changed or removed in the Data\Backgrounds\ folder as long as all image names in the folder are sequential numbers.
